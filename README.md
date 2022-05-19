@@ -1,1 +1,1 @@
-# Operating_System_Lab-10
+7, 2, 3, 1, 2, 5, 3, 4, 6, 7, 7, 1, 0, 5, 4, 6, 2, 3, 0 , 1  Өгөгдсөн reference string-тэй процессийн page fault-ийг frame-ийн тоо 3 байх үед FIFO, LRU, OPTIMAL page replacement алгоритмууд ашиглан тоолох програм бич.
